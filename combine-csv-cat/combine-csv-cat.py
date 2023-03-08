@@ -33,7 +33,7 @@ grouped_df = grouped_df.reset_index()
 #grouped_df = grouped_df.reindex(sorted(grouped_df.columns), axis=1)
 
 # Write the combined DataFrame to a new CSV file
-grouped_df.to_csv("combined_sheet.csv.csv", index=False, encoding = 'utf-8')
+grouped_df.to_csv("combined_sheet.csv", index=False, encoding = 'utf-8')
 print('\n''''
   ___                 ___  
  (o o)               (o o) 
