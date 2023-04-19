@@ -1,4 +1,4 @@
-# CombineCSV
-Python scripts that combine CSV files into one.
-*  combine-csv-cat: Concatenates values from multiple CSVs using a specified field with a pipe delimiter, matches header rows for each CSV file, and writes to one combined CSV file.
-*  combine-csv-header: matches header rows for each CSV file and writes to one combined CSV file.
+# CSVscripts
+Python scripts that work with CSV files.
+*  CombineCSV: Concatenates values from multiple CSVs and writes to one combined CSV file.
+*  CSV_JSON: scripts to convert JSON files to CSV and vice versa.
